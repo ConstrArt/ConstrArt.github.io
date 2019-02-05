@@ -5,6 +5,4 @@
 layout: home
 ---
 
- Foldings                           | Running Phi
-![Folding](/assets/img/folding.jpg) |  ![Folding](/assets/img/1.jpg)
-![Folding](/assets/img/3.jpg)       |  ![Folding](/assets/img/4.jpg)
+![Folding](/assets/img/experiment.jpg)      |  ![Folding](/assets/img/simply.jpg) 

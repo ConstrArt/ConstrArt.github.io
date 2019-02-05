@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Folding](/assets/img/folding.jpg) | ![Folding](/assets/img/folding.jpg)
-
+![Folding](/assets/img/folding.jpg){:.class width="250" }
 
 <br/>
 On this site I present graphics which I created with the Postscript resp. MetaFont programming languages. 

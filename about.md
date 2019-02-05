@@ -4,19 +4,26 @@ title: About
 permalink: /about/
 ---
 
-![Folding](/assets/img/monsters.jpg)
-
-[mypdf](/pdf/divisioD.pdf)
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![Folding](/assets/img/folding.jpg) | ![Folding](/assets/img/folding.jpg)
 
 
-[jekyll-organization]: https://github.com/jekyll
+<br/>
+On this site I present graphics which I created with the Postscript resp. MetaFont programming languages. 
+
+Plain geometric shapes such as parallelograms, circles, simple patterns 
+are scaled, translated or rotated to build complexer designs. It is essential
+that relations within and between shapes are respected by these transformations. This is obtained with the classical principal of "sectio aurea".
+
+I do not have an account on any of the so called social media. You may send me an email if you whish to.
+
+<br/>
+<hr/>
+<br/>
+<span class="contacticon center">
+	<a href="mailto:jrkuehner@.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
+</span>
+
+<div class="col three caption">
+Best way to reach me: Phone or email 
+</div>

@@ -4,7 +4,7 @@ title: Lines
 permalink: /lines/
 ---
 
-Second Project: Lines
+<h2>Second Project: Lines</h2>
 
 ![Folding](/assets/img/lines7-1.jpg) | ![Folding](/assets/img/lines7-2.jpg)
 ![Folding](/assets/img/lines_a.jpg)  | ![Folding](/assets/img/lines_b.jpg) 

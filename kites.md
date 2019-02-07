@@ -4,6 +4,8 @@ title: Kites
 permalink: /kites/
 ---
 
+<h2>Third Project: Kites</h2>
+
 ![Kites](/assets/img/goldenKite0.jpg) | ![Kites](/assets/img/goldenKite1.jpg) | ![Kites](/assets/img/goldenKite2.jpg)
 ![Kites](/assets/img/colorKite2.jpg) | ![Kites](/assets/img/colorKite1.jpg) | ![Kites](/assets/img/colorKite0.jpg)
 

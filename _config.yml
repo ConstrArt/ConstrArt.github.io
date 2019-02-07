@@ -30,7 +30,8 @@ plugins:
 
 header_pages:
   - about.md
-  - portfolio.md
+  - folding.md
+  - lines.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

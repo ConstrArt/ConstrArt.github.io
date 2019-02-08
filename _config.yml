@@ -28,12 +28,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  - about.md
-  - folding.md
-  - lines.md
-  - kites.md
-  - greetings.md
+#header_pages:
+#  - about.md
+#  - folding.md
+#  - lines.md
+#  - kites.md
+#  - greetings.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

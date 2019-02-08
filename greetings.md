@@ -10,4 +10,4 @@ permalink: /greetings/
 
 This is a series of graphics which I constructed with the postscript programming language.
 
-I made a graphic for Chrstmas greetings. Halfcircle were scaled, affine transformations applied. 
+I made a graphic for Christmas greetings. Halfcircle were scaled, affine transformations applied. 

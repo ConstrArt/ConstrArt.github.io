@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lines
-permalink: /lines/
+permalink: /portfolio/lines/
 ---
 
 <h2>Second Project: Lines</h2>

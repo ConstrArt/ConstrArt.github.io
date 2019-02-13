@@ -28,8 +28,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-#header_pages:
-#  - about.md
+header_pages:
+  - about.md
+  - portfolio.md
 #  - folding.md
 #  - lines.md
 #  - kites.md

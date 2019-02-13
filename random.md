@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Random
-permalink: /random/
+permalink: /portfolio/random/
 ---
 
 <h2>Fifth Project: Random</h2>

@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![Folding](/assets/img/experiment.jpg)      |  ![Folding](/assets/img/simply.jpg) 
+![Folding](/assets/img/exp.jpg)      |  ![Folding](/assets/img/simply.jpg) 

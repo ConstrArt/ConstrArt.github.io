@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kites
-permalink: /kites/
+permalink: /portfolio/kites/
 ---
 
 <h2>Third Project: Kites</h2>

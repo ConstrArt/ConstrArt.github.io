@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Greetings
-permalink: /greetings/
+permalink: /portfolio/greetings/
 ---
 
 <h2>Fourth Project: Greetings</h2>

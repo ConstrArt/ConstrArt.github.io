@@ -12,7 +12,7 @@ permalink: /portfolio/kites/
 
 
 <br/>
-On this site I present graphics which I created with the MetaPost [^1] programming languages. 
+On this site I present graphics which I created with the MetaPost [^1] programming language. 
 
 The basic shape of these graphics is a kite, my favourit toy on windy days in autmn. Gust lift it up, make it turn and dance in the sky. Automn colors make it
 shine.  

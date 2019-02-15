@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Running
-permalink: /portfolio/running/
+title: Folding
+permalink: /portfolio/folding/
 ---
 
-<h2>First Project: Running</h2>
+<h2>First Project: Folding</h2>
 
-![Folding](/assets/img/exp.jpg) | ![Folding](/assets/img/yellow.jpg) | ![Folding](/assets/img/simply.jpg) 
-![Folding](/assets/img/goldinv.jpg) | ![Folding](/assets/img/yellowinv.jpg) | ![Folding](/assets/img/simplyinv.jpg) 
+![Folding](/assets/img/folding1.jpg) | ![Folding](/assets/img/folding2.jpg) | 
+![Folding](/assets/img/folding4.jpg) | ![Folding](/assets/img/folding5.jpg) | 
 
 
 This is a series of graphics which I constructed with the PostScript [^1] programming language.

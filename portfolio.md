@@ -15,8 +15,8 @@ proportionate since we take care that they respect the classical rule of "sectio
 There are now five projects: Folding - Lines - Kites - Greetings - Random.
 You can access each project by clicking the following links.
 
-[![Folding](/assets/img/experiment.jpg)](/portfolio/running) | [![Folding](/assets/img/lines1.jpg)](/portfolio/lines) | [![Folding](/assets/img/cK01.jpg)](/portfolio/kites) |  [![Folding](/assets/img/greetings2.jpg)](/portfolio/greetings) | [![Folding](/assets/img/rand5.jpg)](/portfolio/random) | 
-
+[![Folding](/assets/img/experiment.jpg)](/portfolio/running) | [![Folding](/assets/img/lines1.jpg)](/portfolio/lines) | [![Folding](/assets/img/cK01.jpg)](/portfolio/kites) |  
+[![Folding](/assets/img/greetings2.jpg)](/portfolio/greetings) | [![Folding](/assets/img/rand5.jpg)](/portfolio/random) | [![Folding](/assets/img/folding00.jpg)](/portfolio/folding) |
 
 A short description of these principles can be found [here](/pdf/folding.pdf).
 If you would like to know more about divina proportione and sectio aurae follow this [link](/pdf/divisioD.pdf).

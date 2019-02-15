@@ -12,10 +12,12 @@ permalink: /portfolio/kites/
 
 
 <br/>
-On this site I present graphics which I created with the Postscript resp. MetaFont programming languages. 
+On this site I present graphics which I created with the MetaPost [^1] programming languages. 
 
 The basic shape of these graphics is a kite, my favourit toy on windy days in autmn. Gust lift it up, make it turn and dance in the sky. Automn colors make it
 shine.  
+
+[^1]: by John Hobby
 
 <br/>
 <hr/>

@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-In this portfolio I present a series of graphics which I constructed with the Postscript resp. MetaFont programming language.
+In this portfolio I present a series of graphics which I constructed with the PostScript [^1] resp. MetaPost [^2] programming language.
 
 They are all constructed following the same principles. 
 A basic geometric shape or pattern is manipulated using 
@@ -20,3 +20,6 @@ You can access each project by clicking the following links.
 
 A short description of these principles can be found [here](/pdf/folding.pdf).
 If you would like to know more about divina proportione and sectio aurae follow this [link](/pdf/divisioD.pdf).
+
+[^1]: PostScript is a registered trademark of Adobe Systems Incorporated
+[^2]: by John Hobby

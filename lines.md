@@ -15,4 +15,3 @@ It was repeatedly shifted up and reflected. Some of the strokes can by thickend.
 
 
 [^1]: PostScript is a registered trademark of Adobe Systems Incorporated
-

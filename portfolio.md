@@ -12,7 +12,7 @@ affine transformations and homotheties. The resulting shapes are put together an
 the more complex final design. The constituting parts and the whole design  are well
 proportionate since we take care that they respect the classical rule of "sectio aurea".  
 
-There are now five projects: Running - Lines - Kites - Greetings - Random - Folding.
+There are now six projects: Running - Lines - Kites - Greetings - Random - Folding.
 You can access each project by clicking the following icons.
 
 [![Folding](/assets/img/experiment.jpg)](/portfolio/running) | [![Folding](/assets/img/lines1.jpg)](/portfolio/lines) | [![Folding](/assets/img/cK01.jpg)](/portfolio/kites) |  

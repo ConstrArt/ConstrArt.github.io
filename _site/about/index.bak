@@ -3,17 +3,17 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>KuoliKunst | Portfolio for KuoliKunst.</title>
+<title>About | KuoliKunst</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="KuoliKunst" />
+<meta property="og:title" content="About" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Portfolio for KuoliKunst." />
 <meta property="og:description" content="Portfolio for KuoliKunst." />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
+<link rel="canonical" href="http://localhost:4000/about/" />
+<meta property="og:url" content="http://localhost:4000/about/" />
 <meta property="og:site_name" content="KuoliKunst" />
 <script type="application/ld+json">
-{"description":"Portfolio for KuoliKunst.","@type":"WebSite","url":"http://localhost:4000/","headline":"KuoliKunst","name":"KuoliKunst","@context":"http://schema.org"}</script>
+{"description":"Portfolio for KuoliKunst.","@type":"WebSite","url":"http://localhost:4000/about/","headline":"About","name":"KuoliKunst","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="KuoliKunst" /></head>
 <body><header class="site-header" role="banner">
@@ -33,28 +33,42 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home"><table>
-  <tbody>
-    <tr>
-      <td><img src="/assets/img/exp.jpg" alt="Folding" /></td>
-      <td><img src="/assets/img/simply.jpg" alt="Folding" /></td>
-    </tr>
-  </tbody>
-</table>
-<h2 class="post-list-heading">Posts</h2>
-    <ul class="post-list"><li><span class="post-meta">Feb 6, 2019</span>
-        <h3>
-          <a class="post-link" href="/jekyll/update/2019/02/06/kuolikunst.html">
-            Welcome to KuoliKunst!
-          </a>
-        </h3></li><li><span class="post-meta">Feb 1, 2019</span>
-        <h3>
-          <a class="post-link" href="/jekyll/update/2019/02/01/welcome-to-jekyll.html">
-            Welcome to Jekyll!
-          </a>
-        </h3></li></ul>
+        <article class="post">
 
-    <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p></div>
+  <header class="post-header">
+    <h1 class="post-title">About</h1>
+  </header>
+
+  <div class="post-content">
+    ![Folding](/assets/img/folding.jpg){:.class width="250" } 
+
+<br/>
+On this site I present graphics which I created with the PostScript 
+[^1] 
+resp. MetaPost [^2] programming languages. 
+
+Plain geometric shapes such as parallelograms, circles, simple patterns 
+are scaled, translated or rotated to build more complex designs. It is essential
+that relations within and between shapes are respected by these transformations. This is obtained with the classical principle of "sectio aurea".
+
+[^1]: PostScript is a registered trademark of Adobe Systems Incorporated
+[^2]: by John Hobby
+
+
+I do not have an account on any of the so called social media. You may send me an email if you wish to.
+
+
+<br/>
+<hr/>
+<br/>
+<span class="contacticon center">
+	<a href="mailto:jrkuehner@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/jrkuehner/" target="_blank"><i class="icon-github.svg"></i></a>
+</span>
+
+  </div>
+
+</article>
 
       </div>
     </main><footer class="site-footer h-card">

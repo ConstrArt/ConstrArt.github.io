@@ -4,7 +4,7 @@ title: Folding
 permalink: /portfolio/folding/
 ---
 
-<h2>First Project: Folding</h2>
+<h2>Sixth Project: Folding</h2>
 
 ![Folding](/assets/img/folding1.jpg) | ![Folding](/assets/img/folding2.jpg) | 
 ![Folding](/assets/img/folding4.jpg) | ![Folding](/assets/img/folding5.jpg) | 

@@ -18,15 +18,3 @@ The basic shape of these graphics is a kite, my favourit toy on windy days in au
 shine.  
 
 [^1]: by John Hobby
-
-<br/>
-<hr/>
-<br/>
-<span class="contacticon center">
-	<a href="mailto:jrkuehner@gmail.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-</span>
-
-<div class="col three caption">
-Best way to reach me: email 
-</div>

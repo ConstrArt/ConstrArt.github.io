@@ -6,8 +6,8 @@ permalink: /portfolio/folding/
 
 <h2>Sixth Project: Folding</h2>
 
-![Folding](/assets/img/folding1.jpg) | ![Folding](/assets/img/folding2.jpg) | 
-![Folding](/assets/img/folding4.jpg) | ![Folding](/assets/img/folding5.jpg) | 
+![Folding](/assets/img/folding1.jpg) | ![Folding](/assets/img/folding.jpg) | 
+![Folding](/assets/img/folding6.jpg) | ![Folding](/assets/img/folding5.jpg) | 
 
 
 This is a series of graphics which I constructed with the PostScript [^1] programming language.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portraits
-permalink: /portfolio/portraits
+permalink: /portfolio/portraits/
 ---
 
 <h2> Portraits </h2>

@@ -19,10 +19,6 @@ You can access each project by clicking the following icons.
 [![Folding](/assets/img/greetings2.jpg)](/portfolio/greetings) | [![Folding](/assets/img/rand5.jpg)](/portfolio/random) | [![Folding](/assets/img/folding00.jpg)](/portfolio/folding) |
 [![Folding](/assets/img/birds.jpg)](/portfolio/birds) | [![Folding](/assets/img/birds.jpg)](/portfolio/portraits)
 
-=======
-[![Folding](/assets/img/birds.jpg)](portfolio/portraits) |
->>>>>>> 65dc825f0d8be4dc85ffdee0d23c96b12bd85ebf
-
 A short description of these principles can be found [here](/pdf/folding.pdf).
 If you would like to know more about divina proportione and sectio aurae follow this [link](/pdf/divisioD.pdf).
 
